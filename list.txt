@@ -3,7 +3,7 @@
 # A custom ads Pi-hole blacklist,
 #
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/mevljas/pihole-blacklist/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mevljas/pihole-blacklist/main/list.txt
 # Project home page: https://github.com/mevljas/pihole-blacklist
 # Project releases: https://github.com/mevljas/pihole-blacklist/releases
 #
