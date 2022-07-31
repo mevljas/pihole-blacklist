@@ -10,4 +10,13 @@
 # ===============================================================
 ads-store.24ur.com
 oglasi.slo-tech.com
-
+ads.api.24ur.si
+https://analyticsengine.s3.amazonaws.com
+https://advice-ads.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://amazonclix.com
+https://an.facebook.com
+https://advertising.twitter.com
+https://widgets.pinterest.com
+https://d.reddit.com
