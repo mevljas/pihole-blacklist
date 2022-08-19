@@ -1,6 +1,6 @@
 # Title: mevljas/pihole-blacklist
 #
-# A custom ads Pi-hole blacklist,
+# A custom ads and tracking Pi-hole blacklist,
 #
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/mevljas/pihole-blacklist/main/list.txt
@@ -20,3 +20,13 @@ an.facebook.com
 advertising.twitter.com
 widgets.pinterest.com
 d.reddit.com
+nrdp.prod.cloud.netflix.com
+api.amazon.com
+cdn-0.nflximg.com
+api-global.netflix.com
+scs.samsungqbe.com
+nrdp.nccp.netflix.com
+uiboot.netflix.com
+nrdp51-appboot.netflix.com
+secure.netflix.com
+gld.push.samsungosp.com
