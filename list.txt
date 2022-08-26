@@ -30,3 +30,8 @@ uiboot.netflix.com
 nrdp51-appboot.netflix.com
 secure.netflix.com
 gld.push.samsungosp.com
+config-cd-dmgz.bamgrid.com
+dss-hydra-feeds-prod.bamgrid.com
+bag.itunes.apple.com
+graph.facebook.com
+uts-api.itunes.apple.com
