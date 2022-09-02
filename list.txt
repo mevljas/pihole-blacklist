@@ -35,3 +35,9 @@ dss-hydra-feeds-prod.bamgrid.com
 bag.itunes.apple.com
 graph.facebook.com
 uts-api.itunes.apple.com
+samsung-eden.wuaki.tv
+osb-v2.samsungqbe.com
+occ-0-114-778.1.nflxso.net
+abwfen5bwgsc.eu.api.amazonvideo.com
+osb-v2.samsungqbe.com
+occ-0-114-778.1.nflxso.net
